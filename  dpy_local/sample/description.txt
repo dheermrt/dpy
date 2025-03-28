@@ -1,0 +1,6 @@
+In this sample we are trying to create a basic python module using c
+Ojectives:-
+1-Learn basics of c, and understand it's differences with c++
+2-Learn how Python C API works 
+
+Note-You can also use API's like Cython or Pybind11, they are easier to implement but come with a slight performance overhead
